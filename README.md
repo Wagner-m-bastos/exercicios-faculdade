@@ -1,2 +1,2 @@
 # exercicios-faculdade
-Exercicios desenvolvido na faculdada flamingo - HTML - CSS - JavaScript
+Exercicios desenvolvidos na faculdade flamingo - Aulas HTML - CSS - JavaScript
